@@ -1,0 +1,51 @@
+#profile{
+    height: 500px;
+   border-radius: 500px;
+   width:500px;
+}
+
+.jumbotron h1,h4{
+    color: blue;
+}
+
+.jumbotron p{
+    color: red;
+    font-size: 20px;
+}
+
+
+.star-dark{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    box-shadow: 1px 2px 2px 1px;
+}
+p{
+    font-size: 20px;
+}
+
+.jumbotron{
+    background: url('/css/assets/paris1.jpg') no-repeat ;
+    background-size:cover; 
+}
+
+#contact1{
+    padding: 30px 0px 10px 0px;
+}
+
+.btn{
+    padding: 10px 0px 10px 0px;
+}
+
+#msg{
+    margin: 10px 0px 10px 0px;
+}
+
+#sec{
+    padding: 10px;
+    background-color: grey;
+}
+#about{
+    margin-top: 80px;
+    margin-bottom:20px;
+}
